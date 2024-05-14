@@ -150,6 +150,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - English grammar course for experts provided by the University of California.
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Teaches how to use machine learning to understand and manipulate human language. It requires a working knowledge of machine learning, intermediate Python experience including DL frameworks & proficiency in calculus, linear algebra, & statistics.
 - [Machine Translation](https://www.coursera.org/learn/machinetranslation) - Explains the basic principles of translation algoritms. It is provided by the Karlsruhe Institute of Technology (Germany).
+- [Foundations of A.I. in Machine Translation | Alexa Translations A.I.] (https://alexatranslations.com/blog/foundations-of-ai-in-machine-translation-course/) - Become certified in the Foundations of A.I. in Machine Translation! This 4-part online series covers: A brief history of machine translations, things to consider when selecting an A.I. translation platform, the practical uses and benefits of machine translations, hands-on application best practicea, and how you can successfully implement it within your organization.
 
 ## Books
 
